@@ -38,3 +38,8 @@ if(true)
 const c = 99
 console.log(c)
 console.log(c.toString())
+
+//ramas en github
+//git checkout -b branch-nro-1 salgo y creo rama
+//git checkout main me voy a la rama main
+//git merge branch-nro-1 pero antes hago el checkout a la rama donde quiero estar y que mergee por ejemplo pasar lo de branch-nro-1 a main hago checkout a main y ahi el merge
